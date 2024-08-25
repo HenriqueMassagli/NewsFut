@@ -1,1 +1,1 @@
-projeto de site de noticias para o professor gabriel.
+projeto de criação de um site de noticias para o professor gabriel.
